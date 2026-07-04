@@ -1,0 +1,52 @@
+<Doctype html>
+<html>
+    <html lang="en">
+        <meta charset="UTF-8">
+        <head>
+            <title> khan shaheb </titl>
+        </head>
+        <body>
+            <h1>arif khan pepar</h1>
+            <p style="color: black;">amader desh tare koto  <strong>valobashi chirodin </strong> <em>valobashi chirodin </em> valobashi chirodin  tumae 
+                pran a bajay bashi o ma fagon a tor amer bone ki dekhesi 
+            </p><br>
+            <ol style="color: blue;"> am 
+                jam 
+                khathal 
+                lichu 
+                peyara 
+            </ol><br>
+            <ul style="color: aqua;">am 
+                jam 
+                khathal 
+                lichu
+             </ul><br>
+
+             <a href="https://www.google.com">click here </a><br>
+
+             <img src="c:\Users\HP 845G8\Downloads\neymar.avif" width="200"><br>
+
+             <form>
+                inter your name <br>
+                <input type="text" placeholder=" your name">
+                inter your age <br>
+                <input type="age" placeholder="your age">
+                inter your addrees <br>
+                <input type="" placeholder="addrees">
+                gender
+                <br>
+                <select>
+                    <option>male</option>
+                    <option>female</option>
+                    <option>other</option>
+                </select>
+
+                <br><br>
+
+                <input type="submit" value="submit">
+             </form>
+            
+
+        </body>
+
+    </html>
